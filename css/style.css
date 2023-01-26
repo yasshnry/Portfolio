@@ -342,9 +342,7 @@
 .testimonial-left img,
 .testimonial-right img {
     position: absolute;
-    padding: 5px;
-    border: 1px solid var(--secondary);
-    border-radius: 70px;
+    padding: 0px;
 }
 
 .testimonial-left img:nth-child(1),
@@ -374,8 +372,8 @@
 }
 
 .testimonial-carousel .owl-item img {
-    width: 120px;
-    height: 120px;
+    width: 230px;
+    height: 230px;
 }
 
 .testimonial-carousel .testimonial-icon {
@@ -389,8 +387,6 @@
     align-items: center;
     justify-content: center;
     background: #FFFFFF;
-    border: 1px solid var(--secondary);
-    border-radius: 60px;
 }
 
 .testimonial-carousel .owl-dots {
